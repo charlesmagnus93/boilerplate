@@ -6,6 +6,9 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"engines": {
+		"node": "12.22.x"
+	},
 	"dependencies": {
 		"express": "^4.12.4",
 		"cors": "^2.8.0"
